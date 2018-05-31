@@ -6,7 +6,7 @@ package com.basics;
 	public static void main(String v[])
 	{
 		isEven t1=new isEven();
-	    System.out.print(t1.isEven1(5));
+	    System.out.print(t1.isEven1(1));
 	}
 	public boolean isEven1(int one)
 	{
